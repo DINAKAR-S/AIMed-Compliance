@@ -1,0 +1,21 @@
+.chatbot-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 60%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .chatbot-response {
+    font-weight: bold;
+    color: #333;
+  }
+  

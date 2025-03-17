@@ -1,0 +1,29 @@
+.ControlsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  background-color: #f9f9f9; /* Light background for better visibility */
+}
+
+.InputBox {
+  flex-grow: 1; /* Allow input to take available space */
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.SendButton {
+  padding: 10px 20px;
+  background-color: #0077ff; /* Button color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.SendButton:hover {
+  background-color: #005bb5; /* Hover effect */
+}
