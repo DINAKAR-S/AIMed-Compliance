@@ -53,7 +53,7 @@ MedAI Compliance is a final year project that evaluates the **accuracy**, **comp
 - 🧑‍🏫 **Mentor**: Dr. K. Venkatesan (Assistant Professor)  
 - 🧑‍💼 **HOD**: Dr. Udhayakumar  
 - **Department**: Cyber Security  
-- **Institution**: Amrita Vishwa Vidyapeetham, Coimbatore
+- **Institution**: Amrita Vishwa Vidyapeetham, Chennai
 
 ---
 
@@ -66,15 +66,9 @@ MedAI Compliance is a final year project that evaluates the **accuracy**, **comp
 
 ---
 
-## 📸 Screenshots
-
-> Replace with actual images from your project
-
----
-
 ## 🌐 Deployment
 
-🚀 Hosted on Vercel: [https://your-app-link.vercel.app](https://ai-med-compliance.vercel.app/)
+🚀 Hosted on Vercel: [https://ai-med-compliance.vercel.app/](https://ai-med-compliance.vercel.app/)
 
 ---
 
