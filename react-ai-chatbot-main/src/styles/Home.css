@@ -1,0 +1,59 @@
+.home-container {
+    text-align: center;
+    padding: 30px;
+    background-color: #f4f4f9;
+    min-height: 100vh;
+  }
+  
+  .college-logo {
+    width: 180px;
+    margin-bottom: 15px;
+  }
+  
+  .project-title {
+    font-size: 36px;
+    color: #7b1fa2;
+    font-weight: bold;
+  }
+  
+  .tagline {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  .team-section, .faculty-section {
+    background: #fff;
+    padding: 15px;
+    margin: 20px auto;
+    width: 60%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navigation-section {
+    margin-top: 30px;
+  }
+  
+  .nav-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .nav-btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background: #6200ea;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .nav-description {
+    font-size: 14px;
+    color: #444;
+  }
+  
