@@ -19,7 +19,7 @@ Follow the steps below to set up and run the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/paquino11/chatpdf-rag-deepseek-r1.git
+git clone https://github.com/DINAKAR-S/AIMed-Compliance/tree/main/chatpdf-rag-deepseek-r1.git
 cd chatpdf-rag-deepseek-r1
 ```
 
@@ -155,12 +155,6 @@ You can modify the following parameters in `rag.py` to suit your needs:
 - **Memory Integration**: Add persistent memory to maintain conversational context across sessions.
 - **Advanced Analytics**: Include visual insights from retrieved content.
 - **Expanded Model Support**: Support additional embedding and LLM providers.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
