@@ -2,7 +2,7 @@ import { getTrainData } from "./trainData";
 
 export async function fetchAIResponses(question) {
   const models = [
-      "qwen/qwq-32b:free",
+      "qwen/qwen2.5-vl-32b-instruct:free",
       "deepseek/deepseek-r1:free",
       "meta-llama/llama-3.3-70b-instruct:free",
       "cognitivecomputations/dolphin3.0-r1-mistral-24b:free",
