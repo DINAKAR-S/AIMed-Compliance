@@ -4,7 +4,7 @@ export async function compareAIModels(question) {
         "deepseek/deepseek-r1-distill-llama-70b:free",
         "meta-llama/llama-3.3-70b-instruct:free",
         "cognitivecomputations/dolphin3.0-r1-mistral-24b:free",
-        "google/gemma-3-27b-it:free"
+        "google/gemini-2.5-pro-exp-03-25:free"
     ];
   
     const apiKey = import.meta.env.VITE_OPENROUTER_API_KEY;
