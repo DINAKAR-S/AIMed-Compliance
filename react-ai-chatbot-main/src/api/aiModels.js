@@ -1,7 +1,7 @@
 export async function compareAIModels(question) {
     const models = [
         "qwen/qwq-32b:free",
-        "deepseek/deepseek-r1-distill-llama-70b:free",
+        "deepseek/deepseek-r1-zero:free",
         "meta-llama/llama-3.3-70b-instruct:free",
         "cognitivecomputations/dolphin3.0-r1-mistral-24b:free",
         "google/gemini-2.5-pro-exp-03-25:free"
