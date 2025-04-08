@@ -18,7 +18,6 @@ MedAI Compliance is a final year project that evaluates the **accuracy**, **comp
 - ✅ **Compliance Checker** — Checks responses against HIPAA, GDPR, and medical ethics.
 - 🛡️ **Security Module** — Detects adversarial prompts and rejects unsafe queries.
 - ⚖️ **Bias Detector** — Flags gender, racial, and socioeconomic biases.
-- 📝 **PDF Report Generator** — Export compliance results for auditing.
 - 📚 **AI Guidelines Page** — Learn about regulations and how AI can be made safer.
 
 ---
@@ -74,7 +73,7 @@ MedAI Compliance is a final year project that evaluates the **accuracy**, **comp
 
 ## 📃 License
 
-MIT License - feel free to use, share, and improve the project.
+All right reserved to Dinakar S, Dr. K. Venkatesan and Amrita Vishwa Vidyapeetham, School of Computing , Chennai.
 
 ---
 
